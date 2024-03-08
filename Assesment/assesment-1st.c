@@ -1,3 +1,12 @@
+/*
+● Write a program to make multiplication of 2-D Matrix
+Make sure each business logic is denoted with appropriate comments and
+make your code interactive and represent clean and clear output on your
+console screen.
+Adhere to the coding principles
+To Accomplish this program you have to use 2-Dimensional Array concept
+*/
+
 #include <stdio.h>
 
 //defining the Row and column 
